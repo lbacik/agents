@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt"
+  short_description: "Run saved Markdown prompts by name"
+  default_prompt: "Use $prompt to run one of my saved prompts."
