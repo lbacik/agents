@@ -18,3 +18,4 @@ To install only the skills, you can also use:
     npx skills add https://github.com/lbacik/agents
 
 For more information, see [skills](https://www.npmjs.com/package/skills).
+
