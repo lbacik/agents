@@ -1,0 +1,5 @@
+interface:
+  display_name: "Triage to Owned"
+  short_description: "Triage issues with an authenticated author check"
+policy:
+  allow_implicit_invocation: false
